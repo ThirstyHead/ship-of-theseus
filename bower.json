@@ -1,0 +1,17 @@
+{
+  "name": "ship-of-theseus",
+  "homepage": "https://github.com/ThirstyHead/ship-of-theseus",
+  "authors": [
+    "Scott Davis <scott@thirstyhead.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
